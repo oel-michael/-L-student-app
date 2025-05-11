@@ -1,2 +1,2 @@
-# -L-student-app
+# ØËL-smarttudent-app
 Cross-platform student app using flutter 
